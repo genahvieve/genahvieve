@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#Skills and Technologies
+- Ruby on Rails
+- Sass/CSS
+- HTML/Haml
+- JavaScript
+- jQuery
+- Git
