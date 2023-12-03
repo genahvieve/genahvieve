@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Skills and Technologies
+# Skills and Technologies
 - Ruby on Rails
 - Sass/CSS
 - HTML/Haml
